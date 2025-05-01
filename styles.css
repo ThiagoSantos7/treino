@@ -40,7 +40,7 @@ body {
 }
 
 h3 {
-  font-size: 25px;
+  font-size: 27px;
 }
 
 label {
@@ -73,7 +73,6 @@ button {
   color: white;
   background-color: rgb(28, 108, 122);
   opacity: 0.9;
-  box-shadow: 1px 1px 1px 1px rgb(38, 88, 117);
   transition: 0.2s;
 }
 

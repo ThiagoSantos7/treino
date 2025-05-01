@@ -12,7 +12,7 @@ function conversao() {
     mensagem.innerHTML = "Ops, Algo deu errado...";
   } else {
     mensagem.innerHTML =
-      "Você deve tomar " + formatResult + "L, de água por dia";
+      "Você deve tomar " + formatResult + "L, de água por dia.";
   }
 }
 
